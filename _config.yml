@@ -1,9 +1,6 @@
-encoding: utf-8
-
 remote_theme: samarsault/plainwhite-jekyll
 
-locale: ko-KR
-title: "결음의 컴공 잡학 블로그"
+title: 결음의 컴공 잡학 블로그
 author: Dfkenin
 email: dfkenin@postech.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
